@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://img.freepik.com/free-vector/abstract-premium-black-gold-geometric-background_1017-24783.jpg?w=360');
+  background-size: cover;
 }
 
 code {
